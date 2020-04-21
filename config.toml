@@ -1,0 +1,65 @@
+baseurl = "https://mehmetakifcakar.com/"
+title = "Mehmet Akif Cakar's Personal Blog"
+languageCode = "tr-tr"
+defaultContentLanguage = "tr"
+
+# Pagination
+paginate = 3
+paginatePath = "page"
+
+# Theme to use
+theme = "hugo-material-blog"
+
+# Copyright, appears in the footer
+copyright = "© 2002 Copyright Mehmet Akif Çakar"
+
+# Links format
+[permalinks]
+  post = "/:year/:month/:title/"
+
+# English
+[languages.en]
+  languageName = "English"
+
+  # Main menu
+  [[languages.en.menu.main]]
+    url = "/"
+    name = "Home"
+    weight = 1
+
+  # Footer menu 2
+  [[languages.en.menu.footer2]]
+    url = "/"
+    name = "Home"
+    weight = 1
+  [[languages.en.menu.footer2]]
+    url = "/about/"
+    name = "About"
+    weight = 2
+
+# Turkish
+[languages.tr]
+  languageName = "Türkçe"
+  title = "Mehmet Akif Çakar'ın Kişisel Web Günlüğü"
+
+  # Main menu
+  [[languages.tr.menu.main]]
+    url = "/tr/"
+    name = "Ana Sayfa"
+    weight = 1
+
+  # Footer menu 2
+  [[languages.tr.menu.footer2]]
+    url = "/tr/"
+    name = "Accueil"
+    weight = 1
+  [[languages.tr.menu.footer2]]
+    url = "/hakkinda/"
+    name = "Sur"
+    weight = 2
+
+
+# Other params
+[params]
+  # Display post summaries instead of content in list templates (default: true)
+  # truncate = false

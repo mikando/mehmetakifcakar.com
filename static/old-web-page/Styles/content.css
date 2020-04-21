@@ -1,0 +1,93 @@
+/*
+Copyright 2005 SBB Software
+Author  : Mehmet Akif ÇAKAR
+Version : 0.2
+*/
+
+.ContentTableRow1Cell2{ background-image: url(../Images/Site/contentTopHeader.gif); }
+.ContentTableRow1Cell2Title{ background-image: url(../Images/Site/contentTopBack.gif); }
+.ContentTableRow2Cell1Title{ background-image: url(../Images/Site/contentLeft.gif); }
+.ContentTableRow2Cell3Title{ background-image: url(../Images/Site/contentRight.gif); }
+.ContentTableRow3Cell2Title{ background-image: url(../Images/Site/contentBottom.gif); }
+.highlightsContainer { padding-left: 17px; }
+.contentBoxContent { padding-top: 5px; }
+
+.contentBoxContainerL
+{
+  padding-left: 17px;
+  padding-top: 29px;
+}
+
+.contentBoxContainerR
+{
+  padding-left: 27px;
+  padding-top: 29px;
+}
+
+.contentBoxLabel
+{
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  width: 100px;
+}
+
+.highlightsLabel 
+{
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.spColumn 
+{
+  border-width: 1px;
+  border-right-color: #999999;
+  background-color:#EEEEEE;
+}
+
+.ContentTable
+{
+	border: 0px;
+	border-width: 0px;
+	height: 100%;
+	width: 100%;
+	border-collapse: collapse;
+}
+
+.ContentTableRow1Cell2
+{
+	height: 24px;
+	width: 100%;
+}
+
+.ContentTableRow1Table1
+{
+	border: 0px;
+	border-width: 0px;
+	width: 100%;
+	border-collapse: collapse;
+}
+
+.ContentTableRow1Table1Row1Cell3
+{
+	width: 100%;
+	white-space: nowrap;
+}
+
+.ContentTableRow2Cell2Table1
+{
+	border: 0px;
+	border-width: 0px;
+	height: 100%;
+	width: 100%;
+	border-collapse: collapse;
+}
+
+.ContentTableRow2Cell2Table1Row2Cell2
+{
+	background-color: #EEEEEE;
+	border-color:#999999;
+	border-width: 1px;
+	border-style: Solid;
+}

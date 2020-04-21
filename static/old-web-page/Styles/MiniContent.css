@@ -1,0 +1,54 @@
+﻿
+.MiniContentHeaderRow
+{
+	height: 16px;
+	width:100%;
+	background-image: url(../Images/Site/miniContentGrayHeader.gif);
+	text-align: left;
+}
+
+.MiniContentLeftHollow
+{
+	background-image: url(../Images/Site/miniContentLeftHollow.gif);
+}
+
+.MiniContentRightHollow
+{
+	background-image: url(../Images/Site/miniContentRightHollow.gif);
+}
+
+.MiniContentLeftCorner
+{
+	width: 22px;
+	height: 16px;
+	border-width: 0px;
+}
+
+.MiniContentRightCorner
+{
+	width: 25px;
+	height: 16px;
+	border-width: 0px;
+}
+
+.MiniContentTopLeft
+{
+	width: 22px;
+	height: 10px;
+	border-width: 0px;
+}
+
+
+.MiniContentTopRight
+{
+	width: 25px;
+	height: 10px;
+	border-width: 0px;
+}
+
+.MiniContentTop
+{
+	width: 100%;
+	height: 10px;
+	border-width: 0px;
+}

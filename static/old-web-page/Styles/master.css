@@ -1,0 +1,59 @@
+﻿.topHeader
+{
+	vertical-align:top;
+	text-align:left;
+	height:147px;
+}
+
+.generalRow
+{
+	vertical-align:top;
+	text-align:left;
+}
+
+.topContinueRow
+{
+	height:147px;
+	text-align:left;
+	vertical-align:top;
+	background-image:url('../Images/Site/topContinue.jpg');
+}
+
+.leftColumnContinueRow
+{
+	height:600px;
+	vertical-align:top;
+	background-image:url('../Images/Site/leftColumnContinue.jpg');
+}
+
+.rightColumnContinueRow
+{
+	height:600px;
+	vertical-align:top;
+	background-image:url('../Images/Site/rightColumnContinue.jpg');
+}
+
+.tableHeader
+{
+	background-image:url('../Images/Site/tableHeader.gif');
+	text-align:left;
+	vertical-align:top;
+}
+
+.tableShadowRow
+{
+	background-image:url('../Images/Site/tableShadow.gif');
+}
+
+.leftTableShadow
+{
+	background-image:url('../Images/Site/leftTableShadow.gif');
+	background-repeat:repeat-y;
+}
+
+.tableShadowBottom
+{
+	background-image:url('../Images/Site/tableShadowBottom.gif');
+	background-repeat:repeat-x;
+	width:5px;
+}

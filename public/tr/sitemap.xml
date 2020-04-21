@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://mehmetakifcakar.com/tr/categories/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehmetakifcakar.com/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://mehmetakifcakar.com/tr/categories/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mehmetakifcakar.com/tr/2014/09/cr%C3%A9ation-dun-nouveau-th%C3%A8me/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehmetakifcakar.com/2014/09/creating-a-new-theme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://mehmetakifcakar.com/tr/2014/09/cr%C3%A9ation-dun-nouveau-th%C3%A8me/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mehmetakifcakar.com/tr/categories/hugo/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mehmetakifcakar.com/tr/post/</loc>
+    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehmetakifcakar.com/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://mehmetakifcakar.com/tr/post/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mehmetakifcakar.com/tr/</loc>
+    <lastmod>2005-04-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehmetakifcakar.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://mehmetakifcakar.com/tr/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mehmetakifcakar.com/tr/about/</loc>
+    <lastmod>2005-04-09T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehmetakifcakar.com/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://mehmetakifcakar.com/tr/about/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://mehmetakifcakar.com/tr/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://mehmetakifcakar.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="tr"
+                href="https://mehmetakifcakar.com/tr/tags/"
+                />
+  </url>
+  
+</urlset>

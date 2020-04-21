@@ -1,0 +1,68 @@
+﻿.tableGeneral
+{
+	width: 98%;
+}
+
+.tableContentRow1
+{
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #444444;
+	text-align: left;
+	width: 29%;
+	vertical-align: top;
+}
+
+.tableContentRow2
+{
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #444444;
+	text-align: left;
+	width: 1%;
+	vertical-align: top;
+}
+
+.tableContentRow3
+{
+	font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+	font-size: 10pt;
+	color: #444444;
+	text-align: left;
+	width: 70%;
+	vertical-align: top;
+}
+
+.tableContentHeader
+{
+	color: #333333 !important;
+	font-weight: bold;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	padding-left: 15px;
+	padding-bottom: 2px;
+	padding-top: 2px;
+	font-size: 8pt;
+	border-bottom: 1px solid #666666;
+	background-repeat: no-repeat;
+	background-image: url(../Images/Site/contentTableHeader.gif);
+	background-position: left;
+	background-color: #CDCDCD;
+}
+
+.menuDefault
+{
+	background-image: url(../Images/Site/menu_background.jpg);
+	background-color: #CCCCCC;
+	border-color: #999999;
+	border-width: 1px;
+	border-style: Solid;
+}
+
+.menuDefaultOver
+{
+	background-image: url(../Images/Site/menu_background3.jpg);
+	background-color: #ADADAD;
+	border-color: #333333;
+	border-width: 1.5px;
+	border-style: ridge;
+}

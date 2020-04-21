@@ -1,0 +1,37 @@
+/* Global  CSS Styles  */
+	.tiny { font: 11pt verdana,helvetica,arial,sans-serif; color: 666666; line-height: 150%;}
+	.body { font: 10pt verdana,helvetica,arial,sans-serif; color: #000000; line-height: 150%;}
+	.copy { font: 11pt verdana,helvetica,arial,sans-serif; color: #000000; line-height: 150%;}
+	.note { font: 11pt verdana,helvetica,arial,sans-serif; color: #000000; line-height: 150%;}
+	.smallheader { font: bold 11pt verdana,helvetica,arial,sans-serif; color: #CACBDE; line-height: 100%;}
+	.paragraph { line-height: 11px;}
+	.bodybold { font: bold 10pt verdana,helvetica,arial,sans-serif; color: #000000; line-height: 150%;}
+	.copybold { font: bold 11pt verdana,helvetica,arial,sans-serif; color: #000000; line-height: 200%;  padding-top: 3pt;}
+	.bullet { font: bold 11pt verdana,helvetica,arial,sans-serif; color: #333366;}
+	.number { font: bold 10pt verdana,helvetica,arial,sans-serif; color: #333366;}
+	.Link { font: 10pt verdana,helvetica,arial,sans-serif; color: #44469D; text-decoration: underline; cursor: hand; }
+	.Linkhover { font: 10pt verdana,helvetica,arial,sans-serif; color: maroon; text-decoration: underline; cursor: hand; }
+	.Linkbold { font: bold 10pt verdana,helvetica,arial,sans-serif; color: #44469D; text-decoration: underline; cursor: hand;}
+	.Linkboldhover { font: bold 10pt verdana,helvetica,arial,sans-serif; color: maroon; text-decoration: underline; cursor: hand;}
+	.whiteHeader { font: bold 10pt verdana,helvetica,arial,sans-serif; color: #ffffff; font-variant: caps; letter-spacing: 1px}
+	.Header { font: bold 10pt verdana,helvetica,arial,sans-serif; color: #FFFFFF; letter-spacing: 1px}
+	.QSTHeader { font: bold 10pt verdana,helvetica,arial,sans-serif; color: #333366; font-variant: small-caps; letter-spacing: 1px}
+	.QSTHeaderLight { font: 10pt verdana,helvetica,arial,sans-serif; color: #333366;}
+	.BigHeaderLink { font: bold 11pt georgia, verdana,helvetica,arial,sans-serif; color: #44469D; text-decoration: underline; cursor: hand;}
+	.BigHeader { font: bold 11pt georgia, verdana,helvetica,arial,sans-serif; color: #000000;}
+	.BigHeaderHover { font: bold 11pt georgia, verdana,helvetica,arial,sans-serif; color: maroon; text-decoration: underline; cursor: hand;}
+	.HeaderLight { font: bold 10pt verdana,helvetica,arial,sans-serif; color: #FFFFFF;}
+	.copylink { font: 9pt verdana,helvetica,arial,sans-serif; line-height: 150%; color: #44469D; text-decoration: underline; cursor: hand;}
+	.copylinkhover { font: 9pt verdana,helvetica,arial,sans-serif; line-height: 150%; color: maroon; text-decoration: underline; cursor: hand;}
+
+/* Main Section Colors*/
+	.homecalloutsectioncell {background-color: #CACBDE;}
+	.homecalloutcellborder {background-color: #2E306B;}
+	.homesectioncell {background-color: #F6F6F7;}
+	.homesidesectioncell {background-color: #1F3377;}
+	.homecellborder {background-color: #AAAAB5;}
+	.partssectioncell {background-color: #F6F6F7;}
+	.partssidesectioncell {background-color: #AAAAB5;}
+	.partscellborder {background-color: #AAAAB5;}
+	.whitecell {background-color: #F6F6F7;}
+/* Main Section Colors*/

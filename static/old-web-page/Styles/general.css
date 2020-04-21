@@ -1,0 +1,71 @@
+/* Main Section Colors*/
+	.homecalloutsectioncell {background-color: #CACBDE;}
+	.homecalloutcellborder {background-color: #2E306B;}
+	.homesectioncell {background-color: #F6F6F7; text-align:center;}
+	.homesidesectioncell {background-color: #1F3377;}
+	.homecellborder {background-color: #AAAAB5;}
+	.partssectioncell {background-color: #F6F6F7;}
+	.partssidesectioncell {background-color: #AAAAB5;}
+	.partscellborder {background-color: #AAAAB5;}
+	.whitecell {background-color: #F6F6F7;}
+/* Main Section Colors*/
+
+p {
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  color: #444444;
+}
+
+.generalImage
+{
+	border-width:0px;
+}
+
+.contentBoxContainerL {
+  padding-left: 17px;
+  padding-top: 29px;
+}
+.contentBoxContainerR {
+  padding-left: 27px;
+  padding-top: 29px;
+}
+.highlightsContainer {
+  padding-left: 17px;
+}
+.contentBoxLabel {
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+  width: 100px;
+}
+.highlightsLabel {
+  font-family: Tahoma, Verdana, Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  font-weight: bold;
+}
+.contentBoxContent {
+  padding-top: 5px;
+}
+.highlightsContent {
+  padding: 5px;
+}
+a {
+  font-size: 11px;
+  color: #0033FF;
+  text-decoration: none;
+}
+a:hover {
+  color: #0000FF;
+/*  border-bottom: 1px dotted #333333; */
+}
+a:visited {
+  color: #0000FF;
+}
+.spColumn {
+  border-right-width: 1px;
+  border-right-color: #000000;
+}
+.label {
+  height: 18px;
+  font-weight: bold;
+}
