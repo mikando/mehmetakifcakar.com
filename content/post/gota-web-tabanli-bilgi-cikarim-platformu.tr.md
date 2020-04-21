@@ -1,6 +1,6 @@
 +++
 author = "Mehmet Akif Çakar"
-categories = ["Programming"]
+categories = ["Programlama"]
 date = "2009-10-16"
 description = "GOTA: Web Tabanlı Bilgi Çıkarım Platformu"
 linktitle = "GOTA: Web Tabanlı Bilgi Çıkarım Platformu"
